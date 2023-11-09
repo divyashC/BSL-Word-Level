@@ -1,7 +1,7 @@
 # BSL-Word-Level
 Bhutanese Sign Language Recognition System
 
-_There are severl folders with different versions of the project_
+_There are several folders with different versions of the project_
 
 _BSL-Word-Level-GRU_
 - Model trained with GRU
